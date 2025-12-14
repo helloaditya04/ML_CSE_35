@@ -1,3 +1,3 @@
 ><h2>Question - 1</h2>
 >
->Write a python code to implement the linear regression without using the libraries.
+>Write a program in python to implement Linear Regression using Direct Formula (Least Squares Method)
